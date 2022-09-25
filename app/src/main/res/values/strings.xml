@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SIGN UP</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_log_in">Already have an account? log in</string>
+    <string name="create_acount">Create Acount</string>
+    <string name="password1">password</string>
+</resources>
